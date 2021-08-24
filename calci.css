@@ -1,0 +1,41 @@
+body {
+    display: block;
+    position: fixed;
+    top: 20%;
+    left: 35%;
+    font-size: xx-large;
+    border: solid black 2px;
+    background-color: powderblue;
+}
+table {
+    border: solid black 2px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    background-color: slateblue;
+}
+.title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    width: 290px;
+    color: black;
+    border: solid black 2px;
+    background-color: slateblue;
+    font-weight: bold;
+}
+input[type="button"] {
+    background-color: black;
+    color: white;
+    border: solid black 2px;
+    width: 100%;
+    font-size: 20px;
+}
+input[type="text"] {
+    background-color: white;
+    border: solid black 2px;
+    width: 100%;
+    font-size: 20px;
+}
